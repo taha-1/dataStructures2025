@@ -1,6 +1,7 @@
 package tree;
 
-import org.junit.jupiter.api.Test; // imports the test annotation
+import org.junit.Test;
+
 import static org.junit.jupiter.api.Assertions.*; // imports assertion methods
 
 // class to test the treap implementation
