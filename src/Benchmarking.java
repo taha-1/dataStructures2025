@@ -2,7 +2,7 @@ package src;
 
 import java.util.*;
 
-// this class benchmarks insert time for treap and treemap
+
 public class Benchmarking {
 
     // main method where the benchmarking happens
